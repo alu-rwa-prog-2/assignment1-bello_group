@@ -1,3 +1,5 @@
+package Question1;
+
 /*
 Author: Bello Moussa Amadou
 Email : b.moussaama@alustudent.com
